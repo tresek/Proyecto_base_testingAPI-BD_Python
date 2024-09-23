@@ -1,0 +1,10 @@
+COrrer en consola 
+  pytest --log-cli-level=INFO
+
+correr con reporte
+	pytest --html=report2.html
+
+correr con reporte
+ pytest --html=Proyecto_Segmentacion_AFP-Capital.html --self-contained-html --log-cli-level=INFO
+ 
+ 
